@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tv_home"
+        android:title="@string/home"
+        android:icon="@mipmap/ic_home_black_24dp">
+    </item>
+    <item android:id="@+id/tv_signup"
+        android:title="@string/signup"
+        android:icon="@mipmap/ic_sign_in_black_24dp">
+    </item>
+    <item android:id="@+id/tv_login"
+        android:title="@string/login"
+        android:icon="@mipmap/ic_log_in_black_24dp">
+    </item>
+    <item android:id="@+id/tv_about"
+        android:title="@string/about"
+        android:icon="@mipmap/ic_group_black_24dp">
+    </item>
+    <item android:id="@+id/tv_activity"
+        android:title="@string/activity"
+        android:icon="@mipmap/ic_local_activity_black_24dp">
+    </item>
+    <item android:id="@+id/tv_ride"
+        android:title="@string/ride"
+        android:icon="@mipmap/ic_directions_car_black_24dp">
+    </item>
+    <item android:id="@+id/tv_help"
+        android:title="@string/help"
+        android:icon="@mipmap/ic_help_black_24dp">
+    </item>
+    <item android:id="@+id/tv_feedback"
+        android:title="@string/feedback"
+        android:icon="@mipmap/ic_feedback_black_24dp">
+    </item>
+</menu>
